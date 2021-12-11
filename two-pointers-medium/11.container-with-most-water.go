@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 /*
  * @lc app=leetcode id=11 lang=golang
  *
@@ -94,7 +92,7 @@ func min(x int, y int) int {
 
 // @lc code=end
 
-func main() {
-	height := []int{1, 2, 1}
-	fmt.Println(maxArea(height))
-}
+// func main() {
+// 	height := []int{1, 2, 1}
+// 	fmt.Println(maxArea(height))
+// }
