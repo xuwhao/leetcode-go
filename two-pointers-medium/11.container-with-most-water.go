@@ -93,6 +93,6 @@ func min(x int, y int) int {
 // @lc code=end
 
 // func main() {
-// 	height := []int{1, 2, 1}
-// 	fmt.Println(maxArea(height))
+// height := []int{1, 2, 1}
+// fmt.Println(maxArea(height))
 // }
