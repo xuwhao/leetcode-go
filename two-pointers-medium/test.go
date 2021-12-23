@@ -21,8 +21,15 @@ func testThreeSumClosest() {
 	fmt.Println(threeSumClosest(nums, target))
 }
 
+func testMinSubArrayLen() {
+	target := 11
+	nums := []int{1, 1, 1, 1, 1, 1, 1, 1}
+	fmt.Println(minSubArrayLen(target, nums))
+}
+
 func main() {
 	testMaxArea()
 	testThreeSum()
 	testThreeSumClosest()
+	testMinSubArrayLen()
 }
