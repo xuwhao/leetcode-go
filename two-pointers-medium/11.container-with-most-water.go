@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
  * @lc app=leetcode id=11 lang=golang
  *
@@ -96,3 +98,9 @@ func min(x int, y int) int {
 // height := []int{1, 2, 1}
 // fmt.Println(maxArea(height))
 // }
+
+func testMaxArea() {
+	// 11. container with most water
+	height := []int{1, 2, 1}
+	fmt.Println(maxArea(height))
+}

@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"math"
 	"sort"
 )
@@ -47,3 +48,9 @@ func threeSumClosest(nums []int, target int) int {
 }
 
 // @lc code=end
+func testThreeSumClosest() {
+	// 16. 3 sum closest
+	nums := []int{2, 3, 4}
+	target := 1
+	fmt.Println(threeSumClosest(nums, target))
+}

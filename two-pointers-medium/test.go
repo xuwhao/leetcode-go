@@ -1,35 +1,12 @@
 package main
 
-import "fmt"
-
-func testMaxArea() {
-	// 11. container with most water
-	height := []int{1, 2, 1}
-	fmt.Println(maxArea(height))
-}
-
-func testThreeSum() {
-	// 15. 3 sum
-	nums := []int{0, 0, 0, 0}
-	fmt.Println(threeSum(nums))
-}
-
-func testThreeSumClosest() {
-	// 16. 3 sum closest
-	nums := []int{2, 3, 4}
-	target := 1
-	fmt.Println(threeSumClosest(nums, target))
-}
-
-func testMinSubArrayLen() {
-	target := 11
-	nums := []int{1, 1, 1, 1, 1, 1, 1, 1}
-	fmt.Println(minSubArrayLen(target, nums))
-}
-
-func main() {
+func testArchive() {
 	testMaxArea()
 	testThreeSum()
 	testThreeSumClosest()
 	testMinSubArrayLen()
+}
+
+func main() {
+	testArchive()
 }

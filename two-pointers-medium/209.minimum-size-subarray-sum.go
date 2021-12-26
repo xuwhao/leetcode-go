@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
  * @lc app=leetcode id=209 lang=golang
  *
@@ -50,3 +52,9 @@ func minSubArrayLen(target int, nums []int) int {
 // }
 
 // @lc code=end
+
+func testMinSubArrayLen() {
+	target := 11
+	nums := []int{1, 1, 1, 1, 1, 1, 1, 1}
+	fmt.Println(minSubArrayLen(target, nums))
+}
