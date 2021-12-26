@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
  * @lc app=leetcode id=387 lang=golang
  *
@@ -40,3 +42,8 @@ func firstUniqChar(s string) int {
 }
 
 // @lc code=end
+
+func TestFirstUniqChar() {
+	str := "loveleetcode"
+	fmt.Println(firstUniqChar(str))
+}
