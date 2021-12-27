@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
  * @lc app=leetcode id=121 lang=golang
  *
@@ -23,3 +25,8 @@ func maxProfit(prices []int) int {
 }
 
 // @lc code=end
+
+func TestMaxProfit() {
+	prices := []int{7, 6, 4, 3, 1}
+	fmt.Println(maxProfit(prices))
+}
