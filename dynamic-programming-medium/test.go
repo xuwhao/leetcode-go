@@ -1,7 +1,8 @@
 package main
 
 func testArchive() {
-	TestUniquePaths()
+	//TestUniquePaths()
+	testLengthOfLIS()
 }
 
 func main() {
