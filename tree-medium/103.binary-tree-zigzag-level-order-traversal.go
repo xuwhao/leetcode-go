@@ -86,7 +86,7 @@ func zigzagLevelOrder(root *TreeNode) [][]int {
 
 // @lc code=end
 
-func TestZigzagLevelOrder() {
+func testZigzagLevelOrder() {
 	root := createTree()
 	forder(root)
 	println()
