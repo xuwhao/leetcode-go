@@ -70,7 +70,7 @@ func uniquePaths(m int, n int) int {
 
 // @lc code=end
 
-func TestUniquePaths() {
+func testUniquePaths() {
 	m, n := 50, 9
 	fmt.Println(uniquePaths(m, n))
 }
