@@ -8,12 +8,6 @@ import "fmt"
  * [103] Binary Tree Zigzag Level Order Traversal
  */
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 // @lc code=start
 /**
  * Definition for a binary tree node.

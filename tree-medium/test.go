@@ -1,7 +1,8 @@
 package main
 
 func testArchive() {
-	testZigzagLevelOrder()
+	//testZigzagLevelOrder()
+	testLevelOrder()
 }
 
 func main() {
