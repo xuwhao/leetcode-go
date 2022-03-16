@@ -1,18 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
+
+// type TreeNode util.TreeNode
 
 /*
  * @lc app=leetcode id=102 lang=golang
  *
  * [102] Binary Tree Level Order Traversal
  */
-
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
 
 // @lc code=start
 /**

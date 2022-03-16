@@ -2,7 +2,8 @@ package main
 
 func testArchive() {
 	//testZigzagLevelOrder()
-	testLevelOrder()
+	//testLevelOrder()
+	testPathSum()
 }
 
 func main() {
