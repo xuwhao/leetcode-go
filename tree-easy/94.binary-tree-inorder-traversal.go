@@ -1,15 +1,13 @@
 package main
 
+import "leetcode-go/util"
+
 /*
  * @lc app=leetcode id=94 lang=golang
  *
  * [94] Binary Tree Inorder Traversal
  */
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
+type TreeNode = util.TreeNode
 
 // @lc code=start
 /**
