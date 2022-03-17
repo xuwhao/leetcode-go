@@ -1,14 +1,19 @@
 package main
 
+import (
+	"fmt"
+	"leetcode-go/util"
+)
+
 /*
  * @lc app=leetcode id=876 lang=golang
  *
  * [876] Middle of the Linked List
  */
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+// type ListNode struct {
+// 	Val  int
+// 	Next *ListNode
+// }
 
 // @lc code=start
 /**
@@ -31,3 +36,9 @@ func middleNode(head *ListNode) *ListNode {
 }
 
 // @lc code=end
+
+func testMiddleNode() {
+	head := []int{4, 2}
+	ans := util.List2Ints(middleNode(util.Ints2List(head)))
+	fmt.Println(ans)
+}
