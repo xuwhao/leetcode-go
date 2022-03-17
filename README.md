@@ -2,4 +2,4 @@
 
 My leetcode solusion using Go.
 
-Please visits [my Blog](https://www.xuwhao.top) for details.
+Please visits [my Blog](https://www.xuwh.top) for details.
