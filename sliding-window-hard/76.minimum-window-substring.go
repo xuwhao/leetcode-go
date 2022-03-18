@@ -44,7 +44,7 @@ func minWindow(s string, t string) string {
 				l++                            // 抛掉字符 remove
 				if _, ok := need[remove]; ok { // 如果 remove 在 t 中，更新窗口内的数据
 					window[remove]--
-					if window[remove] < need[remove] {
+					if window[remove]+1 == need[remove] {
 						cnt--
 						break
 					}
