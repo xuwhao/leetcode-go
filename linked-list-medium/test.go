@@ -1,7 +1,8 @@
 package main
 
 func testArchive() {
-	testSortList()
+	//testSortList()
+	testSwapNodes()
 }
 
 func main() {
