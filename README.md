@@ -21,6 +21,11 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 
 ### Array
 
+- Easy
+    |No.|Name|
+    |---|---|
+    | 169 | majority element |
+
 - Medium
     |No.|Name|
     |---|---|
