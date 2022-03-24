@@ -137,19 +137,20 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 - Easy
     |No.|Name|
     |---|---|
-    | 26 |remove duplicates from sorted array|
-    | 141 |linked list cycle|
+    | 26 |remove duplicates from sorted array |
+    | 27 |remove element |
+    | 141 |linked list cycle |
 
 - Medium
     |No.|Name|
     |---|---|
-    | 11 |container with most water|
-    | 15 |3 sum|
-    | 16 |3 sum closest|
-    | 18 |4 sum|
-    | 75 |sort colors|
-    | 209 |minimum size subarray sum|
+    | 11 |container with most water |
+    | 15 | 3 sum |
+    | 16 | 3 sum closest |
+    | 18 | 4 sum |
+    | 75 | sort colors |
+    | 209 | minimum size subarray sum |
 - Hard
     |No.|Name|
     |---|---|
-    | 42 |trapping rain water|
+    | 42 | trapping rain water |
