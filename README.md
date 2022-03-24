@@ -55,6 +55,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     | 53 | maximum subarray |
     | 70 | climbing stairs |
     | 121 | best time to buy and sell stock |
+    | 303 | range sum query inmutable |
 
 - Medium
     |No.|Name|
