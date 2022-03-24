@@ -63,6 +63,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     | 62 | unique paths |
     | 96 | unique binary search trees |
     | 300 | longest increasing subsequence |
+    | 304 | range sum query 2d immutable |
 
 ### Hash Table
 
