@@ -31,6 +31,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     |---|---|
     | 6 | zigzag conversion |
     | 56 | merge intervals |
+    | 560 | subarray sum equals k |
 
 ### Backtracking
 
