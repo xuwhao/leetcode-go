@@ -46,6 +46,11 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 - Hard
     |No.|Name|
     |---|---|
+    | 34 | find first and last position of element in sorted array |
+
+- Hard
+    |No.|Name|
+    |---|---|
     | 4 | median of two sorted arrays |
 
 ### Dynamic Programming
