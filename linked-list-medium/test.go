@@ -2,7 +2,9 @@ package main
 
 func testArchive() {
 	//testSortList()
-	testSwapNodes()
+	//testSwapNodes()
+
+	testAddTwoNumbers()
 }
 
 func main() {

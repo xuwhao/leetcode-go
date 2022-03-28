@@ -99,6 +99,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 - Medium
     |No.|Name|
     |---|---|
+    | 2 | add two numbers |
     | 19 | remove nth node from end of list |
     | 138 | copy list with random pointer |
     | 148 | sort list |
