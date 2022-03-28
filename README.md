@@ -105,6 +105,11 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     | 148 | sort list |
     | 1721 | swapping nodes in a linked list |
 
+- Hard
+    |No.|Name|
+    |---|---|
+    | 23 | merge k sorted lists |
+
 ### Math
 
 - Easy
