@@ -43,7 +43,12 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 
 ### Binary Search
 
-- Hard
+- Easy
+    |No.|Name|
+    |---|---|
+    | 704 | binary search |
+
+- Medium
     |No.|Name|
     |---|---|
     | 34 | find first and last position of element in sorted array |
