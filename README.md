@@ -46,6 +46,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 - Easy
     |No.|Name|
     |---|---|
+    | 35 | search insert position |
     | 704 | binary search |
 
 - Medium
