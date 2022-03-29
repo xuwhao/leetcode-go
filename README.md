@@ -93,6 +93,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     |---|---|
     | 21 | merge two sorted lists |
     | 83 | remove duplicates from sorted list |
+    | 160 | intersection of two linked lists |
     | 206 | reverse linked list |
     | 876 | middle of the linked list|
 
