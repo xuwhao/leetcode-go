@@ -102,6 +102,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     | 2 | add two numbers |
     | 19 | remove nth node from end of list |
     | 138 | copy list with random pointer |
+    | 142 | linked list cycle ii |
     | 148 | sort list |
     | 1721 | swapping nodes in a linked list |
 
@@ -170,6 +171,8 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     | 18 | 4 sum |
     | 75 | sort colors |
     | 209 | minimum size subarray sum |
+    | 209 | minimum size subarray sum |
+
 - Hard
     |No.|Name|
     |---|---|

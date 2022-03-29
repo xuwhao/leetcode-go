@@ -1,10 +1,10 @@
 package main
 
 func testArchive() {
-	//testSortList()
-	//testSwapNodes()
-
+	testSortList()
+	testSwapNodes()
 	testAddTwoNumbers()
+	testDetectCycle()
 }
 
 func main() {

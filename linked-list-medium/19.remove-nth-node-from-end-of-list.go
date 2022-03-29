@@ -1,14 +1,10 @@
 package main
 
-import "leetcode-go/util"
-
 /*
  * @lc app=leetcode id=19 lang=golang
  *
  * [19] Remove Nth Node From End of List
  */
-
-type ListNode = util.ListNode
 
 // @lc code=start
 /**

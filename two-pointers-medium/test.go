@@ -5,10 +5,9 @@ func testArchive() {
 	testThreeSum()
 	testThreeSumClosest()
 	testMinSubArrayLen()
-
+	testFourSum()
 }
 
 func main() {
-	//testArchive()
-	testFourSum()
+	testArchive()
 }
