@@ -160,9 +160,10 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 - Easy
     |No.|Name|
     |---|---|
-    | 26 |remove duplicates from sorted array |
-    | 27 |remove element |
-    | 141 |linked list cycle |
+    | 26 | remove duplicates from sorted array |
+    | 27 | remove element |
+    | 141 | linked list cycle |
+    | 283 | move zeroes |
 
 - Medium
     |No.|Name|
