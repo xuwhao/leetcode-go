@@ -131,6 +131,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     |No.|Name|
     |---|---|
     | 94 | binary tree inorder traversal |
+    | 101 | symmetric tree |
     | 112 | path sum |
 
 - Medium
