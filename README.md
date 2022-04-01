@@ -9,6 +9,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     - [Array](#array)
     - [Backtracking](#backtracking)
     - [Binary Search](#binary-search)
+    - [Depth First Search](#depth-first-search)
     - [Dynamic Programming](#dynamic-programming)
     - [Hash Table](#hash-table)
     - [Linked List](#linked-list)
@@ -58,6 +59,13 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     |No.|Name|
     |---|---|
     | 4 | median of two sorted arrays |
+
+### Depth First Search
+
+- Medium
+    |No.|Name|
+    |---|---|
+    | 200 | number of islands |
 
 ### Dynamic Programming
 
