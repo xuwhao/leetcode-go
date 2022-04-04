@@ -65,6 +65,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 - Medium
     |No.|Name|
     |---|---|
+    | 130 | surrounded regions |
     | 200 | number of islands |
 
 ### Dynamic Programming
