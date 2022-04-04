@@ -69,5 +69,4 @@ func testSolve() {
 	}
 	solve(board)
 	fmt.Println(board)
-	fmt.Println(string(88), string(79))
 }
