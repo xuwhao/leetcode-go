@@ -12,6 +12,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     - [Depth First Search](#depth-first-search)
     - [Dynamic Programming](#dynamic-programming)
     - [Design](#design)
+    - [Divide and Conquer](#divide-and-conquer)
     - [Hash Table](#hash-table)
     - [Linked List](#linked-list)
     - [Math](#math)
@@ -94,6 +95,13 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     |No.|Name|
     |---|---|
     | 146 | LRU cache |
+
+### Divide and Conquer
+
+- Medium
+    |No.|Name|
+    |---|---|
+    | 215 | kth largest element in an array |
 
 ### Hash Table
 
