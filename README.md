@@ -11,6 +11,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     - [Binary Search](#binary-search)
     - [Depth First Search](#depth-first-search)
     - [Dynamic Programming](#dynamic-programming)
+    - [Design](#design)
     - [Hash Table](#hash-table)
     - [Linked List](#linked-list)
     - [Math](#math)
@@ -86,6 +87,13 @@ Please visits [my Blog](https://www.xuwh.top) for details.
     | 300 | longest increasing subsequence |
     | 304 | range sum query 2d immutable |
     | 695 | max area of island |
+
+### Design
+
+- Medium
+    |No.|Name|
+    |---|---|
+    | 146 | LRU cache |
 
 ### Hash Table
 
