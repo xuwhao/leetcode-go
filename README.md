@@ -55,6 +55,7 @@ Please visits [my Blog](https://www.xuwh.top) for details.
 - Medium
     |No.|Name|
     |---|---|
+    | 33 | search in rotated sorted array |
     | 34 | find first and last position of element in sorted array |
 
 - Hard
